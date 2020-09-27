@@ -1,0 +1,27 @@
+---
+title: "Arithmetic operations"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Add two variables
+
+```{r}
+x <- 1
+y <- 2
+x+y
+```
+
+## Multiply two variables
+
+```{r}
+z <- 4
+a <- 6
+a+z
+```
+
+
+
